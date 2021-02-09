@@ -1,3 +1,3 @@
-Webull-Trading-Bot https://youtu.be/eA8xA8diD3U
-WeBull Trading Bot, by Jacob Amaral Youtube : Jacob Amaral
+Webull-Trading-Bot 
+WeBull Trading Bot, by Marcus Page II 
 This bot will connect to the unofficial Webull API and place trades automatically
